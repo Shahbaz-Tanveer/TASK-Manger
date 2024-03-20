@@ -2,6 +2,19 @@
 
 ---------------Run the client and server by npm install in 2 different terminals-----------------------
 
+## ----------------Authentication----------------
+
+## Regiteration OTP FOR email confirmation
+An OTP is send to email of the user to verify gmail.
+
+## Forget Password
+An OTP is sent to your email for password reset.
+
+## ------------------------------------------
+
+## CRUD Operation
+Basic add task,delete task and edit task operations are available
+
 ## Available Scripts
 
 In the project directory, you can run:
