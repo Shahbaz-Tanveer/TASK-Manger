@@ -1,6 +1,6 @@
+Download the client and server code and run npm i for client and server in separate terminals to download packages.
 
-
----------------Run the client and server by npm install in 2 different terminals-----------------------
+Run the client and server by npm install in 2 different terminals
 
 ## ----------------Authentication----------------
 
